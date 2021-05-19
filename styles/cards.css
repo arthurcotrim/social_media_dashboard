@@ -46,9 +46,14 @@
     color: hsl(230, 17%, 14%);
 
     font-size: 3rem;
+    font-weight: 700;
+    
+    text-align: center;
 }
 
 .card-main p{
+    text-align: center;
+
     text-transform: uppercase;
     letter-spacing: 3px;
     
