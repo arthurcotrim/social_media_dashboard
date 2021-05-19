@@ -5,7 +5,7 @@
 }
 
 .card{
-    width: 100%;
+    width: max(350px, 403px);
     height: 15rem;
 
     background: hsl(227, 47%, 96%);
@@ -73,7 +73,7 @@
     margin: 2rem auto 0;
 }
 
-.card-footer p{
+p{
     color: hsl(163, 72%, 41%);
     margin: 0 .3rem;
     font-weight: 700;
@@ -104,6 +104,6 @@
     border-top: 5px solid hsl(348, 97%, 39%);
 }
 
-#youtube p.negative{
+.negative{
     color:  hsl(356, 69%, 56%);
 }
