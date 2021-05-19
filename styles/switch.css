@@ -43,6 +43,7 @@
     border-radius: 50%;
     
     transition: transform .35s ease-in-out;
+    cursor: pointer;
 } 
 
 input:checked ~ .slider{
